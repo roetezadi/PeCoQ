@@ -84,11 +84,6 @@ We used [A Knowledge-based Approach for Answering Complex Questions in Persian](
   </tr>
 </table>
 
-## Use
-If you wish to use this dataset, please contact me.
-This dataset is free for research purposes. Therefore, send your info to us so that we send you the full dataset.
-
-However, if you wish to use it for business, please reach the authors for more details.
  
 
 ## Cite
